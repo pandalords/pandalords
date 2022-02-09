@@ -1,5 +1,5 @@
 <h1 align="center">G'day I'm Kaelan</h1>
-<h3 align="center">A passionate frontend developer from Australia</h3>
+<h3 align="center">A passionate developer from Australia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
